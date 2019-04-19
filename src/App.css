@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* .MuiFormControl-marginNormal-134 {
+  width: calc(100% - 32px)
+}
+.MuiFormControl-marginNormal-191 {
+  width: calc(100% - 32px)
+} */
+
+.input-add {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
